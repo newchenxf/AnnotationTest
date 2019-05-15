@@ -1,0 +1,1 @@
+include ':app', ':CommonCompiler', ':CommonAnnotation', ':SimpleRouter', ':simplebutterknife'
